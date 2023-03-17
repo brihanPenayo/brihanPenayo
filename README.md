@@ -8,11 +8,10 @@ I am Brihan Penayo </h2>
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=brihanPenauo&style=for-the-badge&color=blueviolet)
 
 
 
-## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; **About me**
+## <img src="https://media2.giphy.com/media/z9vxfIMzxbTaGwBkc5/giphy_s.gif?cid=ecf05e47cjnt33447pqnhksb17ve7x5zi6bsr2dagkvtdyvh&rid=giphy_s.gif&ct=s" width="40"> &nbsp; About me ![](https://komarev.com/ghpvc/?username=brihanPenauo&style=for-the-badge&color=blueviolet)
 
 - 🔭 I’m currently working on my Web development skills.
 - 🌱 I’m currently learning React Native.
