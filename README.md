@@ -1,6 +1,8 @@
 <h2 align="center"> Hello World, 
 <img src="https://media4.giphy.com/media/RPukqDohL55Eo6Z38X/giphy.gif?cid=ecf05e47azgn9v1va67meuuf4d39nj3kwgp8uqwel58w2yn9&rid=giphy.gif&ct=s" width="40">
 
+<!--   # ![I'm Brihan Penayo](https://readme-typing-svg.herokuapp.com?&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=Im+Brihan+Penayo;+;+) -->
+
 I am Brihan Penayo </h2>
 
 <p align='center'>
